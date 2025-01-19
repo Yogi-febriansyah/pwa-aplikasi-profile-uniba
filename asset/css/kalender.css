@@ -1,0 +1,59 @@
+.calendar {
+    margin-top: 20px;
+}
+.calendar th, .calendar td {
+    text-align: center;
+    padding: 10px;
+}
+.calendar th {
+    background-color: #f8f9fa;
+}
+.calendar td {
+    cursor: pointer;
+}
+.calendar td:hover {
+    background-color: #e9ecef;
+}
+.event {
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    font-size: 10px;
+    margin: 2px 0;
+}
+/* Warna background untuk event yang berbeda */
+.venom-1 {
+    background-color: red;
+    margin: 0;
+    padding: 0;
+}
+
+.venom-2 {
+    background-color:rgb(31, 76, 254);
+    margin: 0;
+    padding: 0; 
+}
+.venom-3 {
+    background-color:rgb(183, 239, 172);
+    margin: 0;
+    padding: 0;
+}
+
+.venom-4 {
+    background-color:rgb(52, 40, 103);
+    margin: 0;
+    padding: 0;
+}
+.venom-5 {
+    background-color:rgb(174, 119, 36);
+    margin: 0;
+    padding: 0;
+}
+
+.mr-auto {
+    margin-right: auto;
+}
+
+.ml-auto {
+margin-left: auto;
+}

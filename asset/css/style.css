@@ -1,0 +1,37 @@
+.carousel .carousel-item {
+    height: 300px;
+}
+.bg-content {
+    box-shadow: 2px 5px #888888;
+}
+
+.card {
+    width: 250px;
+}
+
+.paraf {
+    text-decoration: none;
+    color: black;
+    align-items: center;
+    text-align: center;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.text-white {
+    color: white;
+}
+
+.bg-green {
+    background-color: #00FF9C;
+}
+
+.radius {
+    border-radius: 5px;
+}
+
+.tinggi-100 {
+    height: 100%
+}
